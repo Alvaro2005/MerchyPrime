@@ -1,0 +1,45 @@
+{
+    "profile": {
+        "title": "Hi, <br> I'm Alvaro <br> Patiño, a Web Developer.",
+        "btn": "Contact me"
+    },
+
+      "navbar":{
+        "home": "Home",
+        "About":"About",
+        "MySkills":"My Skills",
+        "Works":"Works",
+        "Contact":"Contact",
+        "LogoText": "Web developer"
+    },
+
+    "Portafolio":{
+        "titlePortafolio":" <span class='animate-line1'></span><span class='animate-line2'></span> My Portfolio",
+                    
+         "textEjem": "Portfolio Prototype",
+        "linkPortafolio": "See details",
+        "btnPortafolio":"See More Projects"
+    },
+
+    
+    "About":{
+        "title": " <span class='animate-line1'></span><span class='animate-line2'></span> About me",
+         "textAbout": "Nice to meet you my name is Alvaro Isaac Patiño Carrillo. I am a student and someone who aspires to be a Web programmer. He started with this at the age of 14. As a hobby but at the moment at the age of 16 as a job.",
+         "textbtn": "My Curriculum Vitae (CV)"
+    },
+
+    "Skills":{
+        "title":"<span class='animate-line1'></span><span class='animate-line2'></span> Skills"
+    },
+
+     "Contact":{
+        "title":"<span class='animate-line1'></span><span class='animate-line2'></span> Contact",
+        "textLocation":"Location",
+        "textSocialMedia":"Social Media",
+        "btnContact":"Send Message"
+    },
+
+    "Footer":{
+        "textContent":"Website Developed by @Alvaro Patiño"
+    }
+}

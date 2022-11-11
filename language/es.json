@@ -1,0 +1,44 @@
+{
+    "profile": {
+        "title": "Hola <br class='title-space'> soy Alvaro Patiño, <br class='title-space'> un Desarrollador <i>Web</i>",
+        "btn": "Contacto"
+    },
+
+    "navbar":{
+        "home": "Inicio",
+        "About":"Sobre mi",
+        "MySkills":"Habilidades",
+        "Works":"Trabajos",
+        "Contact":"Contactos",
+        "LogoText": "Desarrollador web"
+    },
+
+    "Portafolio":{
+        "titlePortafolio":"<span class='animate-line1'></span><span class='animate-line2'></span> Mi Portafolio",
+        "textEjem": "Prototipo de Portafolio",
+        "linkPortafolio": "Ver detalles",
+        "btnPortafolio":"Ver Mas Proyectos"
+
+    },
+
+    "About":{
+        "title":" <span class='animate-line1'></span><span class='animate-line2'></span> Sobre mi",
+        "textAbout": "Un gusto en conocerlo mi nombre es Alvaro Isaac Patiño Carrillo. Soy un estudiante y alguien que aspira a ser programador Web. Comenzó con esto a la edad de 14 años. Como un pasatiempo pero en este momento a la edad de 16 años como un trabajo.",
+        "textbtn": " Mi Currículum vitae (CV)"
+    },
+    
+     "Skills":{
+        "title":"<span class='animate-line1'></span><span class='animate-line2'></span>Habilidades"
+    },
+
+    "Contact":{
+         "title":"<span class='animate-line1'></span><span class='animate-line2'></span> Contacto",
+         "textLocation":"Ubicacion",
+         "textSocialMedia":"Redes sociales",
+         "btnContact":"Enviar Mensaje"
+    },
+
+     "Footer":{
+        "textContent":"Sitio <i>Web</i> Desarrollado por @Alvaro Patiño"
+    }
+}
